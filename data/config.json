@@ -1,0 +1,32 @@
+{
+  "storeName": "KAWA STORE",
+  "tagline": "DIGITAL PRODUCTS · HOSTING · BOT SERVICES",
+  "slogan": "Solusi Digital untuk Panel, Bot & Server.",
+  "logo": "assets/images/logo.jpeg",
+  "contact": {
+    "whatsapp": "6287823358993",
+    "telegramUsername": "tuankawa",
+    "telegramUrl": "https://t.me/tuankawa"
+  },
+  "trustBadges": [
+    {
+      "icon": "clock",
+      "title": "Order Instan",
+      "desc": "Tanpa Registrasi"
+    },
+    {
+      "icon": "shield-check",
+      "title": "100% Aman",
+      "desc": "& Terpercaya"
+    },
+    {
+      "icon": "message-circle",
+      "title": "Support",
+      "desc": "Via WhatsApp"
+    }
+  ],
+  "paymentMethods": [
+    "QRIS (All Payment)",
+    "DANA"
+  ]
+}

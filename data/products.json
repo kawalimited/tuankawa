@@ -1,0 +1,80 @@
+[
+  {
+    "id": "website-source-code",
+    "name": "Template Website Full Source Code",
+    "subtitle": "Source code website media social dengan tampilan elegan dibarengi tema cyberdark.",
+    "category": "website",
+    "categoryLabel": "WEBSITE · INDEX.HTML",
+    "categoryType": "do",
+    "status": "ready",
+    "icon": "code",
+    "preview_url": "https://kawalimited.my.id",
+    "variants": [
+      {
+        "id": "web-medsos",
+        "name": "Web Media Social/Bio (30K)",
+        "price": 30000,
+        "priceFormatted": "Rp 30.000",
+        "period": "Permanen",
+        "benefits": [
+          "Tampilan elegan",
+          "Cocok untuk bio store JB",
+          "Free rename",
+          "Free pemasangan"
+        ]
+      },
+      {
+        "id": "web-paymemt-cyber",
+        "name": "Web Payment Cyber (25K)",
+        "price": 25000,
+        "priceFormatted": "Rp 25.000",
+        "period": "Permanen",
+        "benefits": [
+          "Tampilan elegan",
+          "Cocok untuk jb dan gengsi",
+          "Free rename",
+          "Free pemasangan"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "script-bot-whatsapp-jpm",
+    "name": "Script Bot WhatsApp JPM (Versi Terbaru)",
+    "subtitle": "Bot WhatsApp broadcast grup, anti-ban, spintax cerdas, dan auto delay.",
+    "category": "script_bot",
+    "categoryLabel": "SCRIPT · NODE.JS",
+    "categoryType": "script",
+    "status": "ready",
+    "icon": "code",
+    "variants": [
+      {
+        "id": "no-update",
+        "name": "No Update (15K)",
+        "price": 15000,
+        "priceFormatted": "Rp 15.000",
+        "period": "Permanen",
+        "benefits": [
+          "SC Versi Terbaru Tanpa update",
+          "Lisensi Permanen",
+          "Fitur Broadcast & Anti-Ban",
+          "Panduan Setup Lengkap"
+        ]
+      },
+      {
+        "id": "full-update",
+        "name": "Full Update (25K)",
+        "price": 25000,
+        "priceFormatted": "Rp 25.000",
+        "period": "Permanen",
+        "badge": "BEST SELLER",
+        "benefits": [
+          "SC Versi Terbaru Full update",
+          "Free Panel DO Aktif",
+          "Free AM premium",
+          "Akses Update Cloud Berkala"
+        ]
+      }
+    ]
+  }
+]
